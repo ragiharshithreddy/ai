@@ -8,3 +8,9 @@ fastparquet
 Pillow
 librosa
 opencv-python-headless
+plotly
+xgboost
+lightgbm
+tensorflow
+transformers
+torch
